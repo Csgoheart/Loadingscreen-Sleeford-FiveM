@@ -4,12 +4,12 @@ $( document ).ready(function() {
 
 function loadDatSkweenie() {
   var banner = ["&nbsp", "L" ,"o", "s", "&nbsp", "S", "a", "n", "t", "o", "s", "&nbsp", "C", "i", "t", "y", "&nbsp", "R", "P", "&nbsp"]
-  var rules = ["Použivať /me a /do.)", 
-               "Mať funkčný mikrofon.", 
-               "Nezneuživať bugy v hre.", 
-               "Nepouživať cheaty.", 
+  var rules = ["Použivať /me a /do.", 
+               "Mať funkčný mikrofon!", 
+               "Nezneuživať bugy v hre!", 
+               "Nepouživať cheaty!", 
                "Žiadný rasizmus !",
-               "Neurážať ostatných.",
+               "Neurážať ostatných!",
                "Byť stále na discorde.",
                "Prečitať pravidla-Povinné."
               ]
