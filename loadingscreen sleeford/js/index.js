@@ -3,7 +3,7 @@ $( document ).ready(function() {
 });
 
 function loadDatSkweenie() {
-  var banner = ["&nbsp", "L" ,"o", "s", "&nbsp", "S", "a", "n", "t", "o", "s", "&nbsp", "C", "i", "t", "y", "&nbsp", "R", "P", "&nbsp"]
+  var banner = ["&nbsp", "C","Z","/","S","K", "&nbsp", "G","r","a","m","l","e","s", "&nbsp", "R", "P", "&nbsp"]
   var rules = ["Použivať /me a /do!", 
                "Mať funkčný mikrofón!", 
                "Nezneuživať bugy v hre!", 
