@@ -4,14 +4,14 @@ $( document ).ready(function() {
 
 function loadDatSkweenie() {
   var banner = ["&nbsp", "L" ,"o", "s", "&nbsp", "S", "a", "n", "t", "o", "s", "&nbsp", "C", "i", "t", "y", "&nbsp", "R", "P", "&nbsp"]
-  var rules = ["Ne pas spam chat/micro.)", 
-               "Respecter le Staff et les autres joueurs.", 
-               "Ne tuez pas les joueurs sans raison (freekill).", 
-               "Ne pas abuser de votre travail.", 
-               "Ne pas spawnkill !",
-               "Ne pas troller, parler pour rien dire.",
-               "Ne pas freepunch.",
-               "Le streamtalk est interdit."
+  var rules = ["Použivať /me a /do!", 
+               "Mať funkčný mikrofón!", 
+               "Nezneuživať bugy v hre!", 
+               "Nepouživať cheaty!", 
+               "Žiadný rasizmus!",
+               "Neurážať ostatných!",
+               "Byť stále na discorde!",
+               "Prečitať pravidla!"
               ]
   var fadeTime = 500
   var fadeTime2 = 500
